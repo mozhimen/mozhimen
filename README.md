@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=7&text=I,m%20mozhimen&section=footer&reversal=true&textBg=false&desc=https://github.com/mozhimen&fontColor=ffffff&fontSize=50&descSize=15&descAlignY=80" />
-</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&duration=4000&pause=500&color=89ca8d&center=true&width=600&lines=I'm+an+Androider+%E5%AE%89%E5%8D%93%E8%BF%B7%F0%9F%91%BE;an+Architect+%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E5%B8%88%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;an+IT+Blogger+%E6%8A%80%E6%9C%AF%E5%8D%9A%E4%B8%BB%F0%9F%98%8E;a+Nightbird+%E5%A4%9C%E7%8C%AB%E5%AD%90%F0%9F%90%B1;a+Life+Lover+%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E4%BA%BA%F0%9F%98%80"/>
@@ -47,7 +45,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,firebase,github,gitlab,git,mysql,anaconda,py,pytorch,tensorflow,opencv,flutter,dart,java,kotlin,reactivex,sqlite,cmake,gradle,c,cpp,cs,dotnet,css,html,js,ts,vue,unity,md,blender&theme=light">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,firebase,github,gitlab,git,mysql,anaconda,py,pytorch,tensorflow,opencv,flutter,dart,java,kotlin,reactivex,sqlite,cmake,gradle,c,cpp,cs,dotnet,css,html,js,ts,vue,unity,md,blender&theme=auto">
 </p>
 
-
+auto
