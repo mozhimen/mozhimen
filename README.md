@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&duration=4000&pause=500&color=89ca8d&center=true&width=600&lines=I'm+an+Androider+%E5%AE%89%E5%8D%93%E8%BF%B7%F0%9F%91%BE;an+Architect+%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E5%B8%88%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;an+IT+Blogger+%E6%8A%80%E6%9C%AF%E5%8D%9A%E4%B8%BB%F0%9F%98%8E;a+Nightbird+%E5%A4%9C%E7%8C%AB%E5%AD%90%F0%9F%90%B1;a+Life+Lover+%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E4%BA%BA%F0%9F%98%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&duration=4000&pause=500&color=89ca8d&center=true&width=600&lines=I'm+an+Androider;an+Architect;an+IT+Blogger;a+Nightbird;a+Life+Lover"/>
 </p>
 
 <!-- https://github.com/badges/shields -->
@@ -32,18 +32,19 @@ Here are some ideas to get you started:
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mozhimen&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozhimen&theme=transparent&hide_border=true&layout=compact&langs_count=6&show=reviews&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343&title_color=89ca8d" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=mozhimen&theme=transparent&hide_border=true&stroke=00000000&fire=409343&ring=409343&dates=a5d6a7&&sideNums=89ca8d&&currStreakNum=89ca8d&&sideLabels=89ca8d&&currStreakLabel=89ca8d" />
-<br/>
+<!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=mozhimen&theme=transparent&hide_border=true&stroke=00000000&fire=409343&ring=409343&dates=a5d6a7&&sideNums=89ca8d&&currStreakNum=89ca8d&&sideLabels=89ca8d&&currStreakLabel=89ca8d" /> -->
+<!-- <br/>-->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mozhimen&theme=github-compact&hide_border=true&title_color=89ca8d&point=a5d6a7&color=89ca8d" />
-<br/>
+<!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mozhimen&theme=github-compact&hide_border=true&title_color=89ca8d&point=a5d6a7&color=89ca8d" /> -->
+<!-- <br/> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mozhimen&theme=transparent&hide_border=true&layout=compact&langs_count=10&show=reviews&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343&title_color=89ca8d" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mozhimen&theme=transparent&hide_border=true&layout=compact&langs_count=10&show=reviews&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343&title_color=89ca8d" /> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozhimen&theme=transparent&hide_border=true&layout=compact&langs_count=10&show=reviews&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343&title_color=89ca8d" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozhimen&theme=transparent&hide_border=true&layout=compact&langs_count=10&show=reviews&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343&title_color=89ca8d" /> -->
 <br/>
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,firebase,github,gitlab,git,mysql,anaconda,py,pytorch,tensorflow,opencv,flutter,dart,java,kotlin,reactivex,sqlite,cmake,gradle,c,cpp,cs,dotnet,css,html,js,ts,vue,unity,md,blender&theme=auto">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,firebase,github,gitlab,git,mysql,anaconda,py,pytorch,tensorflow,opencv,flutter,dart,java,kotlin,reactivex,sqlite,cmake,gradle,c,cpp,cs,dotnet,css,html,js,ts,vue,unity,md,blender&theme=auto&perline=12">
 </p>
