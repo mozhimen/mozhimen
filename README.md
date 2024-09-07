@@ -47,5 +47,3 @@ Here are some ideas to get you started:
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,firebase,github,gitlab,git,mysql,anaconda,py,pytorch,tensorflow,opencv,flutter,dart,java,kotlin,reactivex,sqlite,cmake,gradle,c,cpp,cs,dotnet,css,html,js,ts,vue,unity,md,blender&theme=auto">
 </p>
-
-auto
