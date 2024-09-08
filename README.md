@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mozhimen&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mozhimen&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&text_color=89ca8d&icon_color=409343&ring_color=409343" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozhimen&theme=transparent&hide_border=true&layout=compact&langs_count=6&show=reviews&hide=contribs&text_color=89ca8d&icon_color=409343&ring_color=409343&title_color=89ca8d" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=mozhimen&theme=transparent&hide_border=true&stroke=00000000&fire=409343&ring=409343&dates=a5d6a7&&sideNums=89ca8d&&currStreakNum=89ca8d&&sideLabels=89ca8d&&currStreakLabel=89ca8d" /> -->
